@@ -186,7 +186,7 @@ Automate the web process using a web service cron job.
 
 ## License
 
-Copyright (C) 2004/2005 azazel, AnthraX and toa.
+Copyright (C) 2004/2005 azazel, AnthraX and toa.<br>
 Modifications for NewCTF by spect
 
 This program is free software; you can redistribute and/or modify
