@@ -174,8 +174,10 @@ function sec2hour($number) {
 
 function un_ut($name) {
   $gname = str_replace("Botpack.", "", "$name");
+  $gname = str_replace("newCTF.", "", "$name");
   $gname = str_replace("Class ", "", "$gname");
   $gname = str_replace("CTFGame", "Capture The Flag", "$gname");
+  $gname = str_replace("newCTF", "New Capture the Flag", "$gname");
   $gname = str_replace(".unr", "", "$gname");
   return ($gname);
 }

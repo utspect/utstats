@@ -1,4 +1,4 @@
-# UTStats
+# UTStats for NewCTF
 UTStats is a Serverside Actor and websystem for the original Unreal Tournament
 that generates statistics from custom NGStats log files.
 It was originally created by azazel, AnthraX and toa, with additions by Skillz, killereye, Enakin, Loki and rork.
@@ -187,6 +187,7 @@ Automate the web process using a web service cron job.
 ## License
 
 Copyright (C) 2004/2005 azazel, AnthraX and toa.
+Modifications for NewCTF by spect
 
 This program is free software; you can redistribute and/or modify
 it under the terms of the Open Unreal Mod License.

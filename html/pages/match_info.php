@@ -25,6 +25,11 @@ switch($real_gamename) {
     teamstats($mid, 'Match Summary');
       break;
 
+  case "New Capture the Flag":
+    include("pages_match_info_ctf.php");
+    teamstats($mid, 'Match Summary');
+      break;
+
   case "Domination":
   case "Domination (insta)":
     teamstats($mid, 'Match Summary', 'dom_cp', 'Dom Pts');
