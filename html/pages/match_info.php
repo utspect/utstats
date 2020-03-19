@@ -26,6 +26,7 @@ switch($real_gamename) {
       break;
 
   case "New Capture the Flag":
+  case "New Capture the Flag (insta)":
     include("pages_match_info_ctf.php");
     teamstats($mid, 'Match Summary');
       break;
